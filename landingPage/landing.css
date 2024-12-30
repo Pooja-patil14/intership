@@ -1,0 +1,250 @@
+body{
+    background-image: url(./images/sea2.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    display: flex;
+    background-color: white;
+    color: black;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    font-family: serif;
+}
+.title{
+    font-size: 25px;
+    font-family:serif;
+    
+
+}
+.sub-title span{
+    
+    padding-right: 25px;
+}
+main{
+    color:white;
+    text-align: center ;
+    margin-top: 180px;
+    font-family: serif;
+}
+.main-heading{
+    font-size: 60px;
+    text-shadow: 2px 2px 2px gray;
+}
+.main-subtitle{
+    font-size: 18px;
+}
+.Rmore{
+    padding: 14px;
+    width: 190px;
+    background-color: rgb(91, 57, 122);
+    color: white;
+    border: none;
+    font-size: 13px;
+    margin-right: 20px;
+    font-weight: bold;
+
+}
+.download{
+    padding: 14px;
+    width: 190px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid white;
+    color: white;
+    font-size: 13px;
+    margin-right: 20px;
+    font-weight: bold;
+
+}
+section{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    height: 600px;
+    background-color: white;
+    margin-top: 200px;
+    font-family: serif;
+}
+.panel-1{
+    background-color:rgb(241, 240, 240);
+    text-align: center;
+    padding-top: 80px;
+
+    
+}
+.laptop{
+    width: 450px;
+}
+.panel-2{
+    margin-left: 150px;
+    margin-right: 150px;
+    
+
+}
+.p-title{
+    margin-top: 100px;
+    font-weight: none;
+    margin-bottom: 20px;
+    padding-top: 100px;
+}
+.panel2-p{
+    color: rgb(182, 180, 180);
+    margin-bottom: 18px;
+}
+.sec-2{
+    margin-top: 0;
+    
+
+}
+.sec-3{
+    background-image:url(./images/sea-waves.jpg);
+    background-attachment: fixed;
+    height: 500px;
+    background-size: cover;
+    margin-top: 0px;
+    text-align: center;
+    display: block;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+}
+.heading{
+    padding-top: 130px;
+    font-size: 60px;
+    margin-bottom: 25px;
+
+}
+.sec-4{
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    background-color:whitesmoke ;
+    height:1100px;
+}
+.mountain{
+    background-size: cover;
+    width: 90%;
+
+}
+.heading2{
+    padding-top: 110px;
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+.project{
+    height: 250px;
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 0px;
+}
+.project-title{
+    font-size: 40px;
+    padding-top: 80px;
+    padding-bottom:30px ;
+}
+.project-img{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr; 
+
+}
+.img1:hover{
+   background-color: rgba(0,0, 0, 0.5);
+}
+.cimg1{
+    background-image: url(./images/s1.jpg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg2{
+    background-image: url(./images/s2);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg3{
+    background-image: url(./images/s3.jpeg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg4{
+    background-image: url(./images/s4.jpeg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg5{
+    background-image: url(./images/s5.jpeg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg6{
+    background-image: url(./images/s6);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg7{
+    background-image: url(./images/s7.jpeg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg8{
+    background-image: url(./images/s8.jpg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.cimg9{
+    background-image: url(./images/sea.jpg);
+    height: 300px;
+    width: 447px;
+    background-size: cover;
+}
+.c1{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 30px;
+}
+
+
+.c1:hover{
+    color: whitesmoke;
+}
+.customer{
+    height: 500px;
+    background-image:url(./images/sea-waves.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.customer-title{
+    margin-top: 70px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.wordpress{
+    height: 300px;
+    text-align: center;
+    padding-top: 150px;
+}
+.download1{
+    background-color: blueviolet;
+    width: 250px;
+    padding: 15px;
+    border-radius: 0;
+    margin-left: 100px;
+    
+}
+.footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-top:90px ;
+}
